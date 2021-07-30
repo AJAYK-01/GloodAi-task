@@ -25,11 +25,9 @@ Frontend made with React and Tailwind.
 ### To run backend
 
 ```
-cd backend/
+cd backend/mailsub/
 
 pip3 install -r requirements.txt
-
-cd mailsub/
 
 python3 manage.py runserver
 ```
