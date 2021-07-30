@@ -1,0 +1,11 @@
+backend/gloodai/
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+db.sqlite3
